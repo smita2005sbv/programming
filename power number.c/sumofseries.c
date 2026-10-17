@@ -13,7 +13,7 @@ int main()
         else{
             sum =sum-i;
         }
-            
+       printf("sum = % d",sum);     
         
     }
 
