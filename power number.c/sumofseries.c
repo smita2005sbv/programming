@@ -16,7 +16,7 @@ int main()
        printf("sum = % d",sum);     
         
     }
-
+    printf("code added another person")
     printf("the sum is %d",sum);
     return 0;
 }
